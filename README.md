@@ -1,1 +1,1 @@
-# odin-cv-application
+# Odin CV Application
